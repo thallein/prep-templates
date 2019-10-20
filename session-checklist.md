@@ -7,14 +7,14 @@
 - What can we feel
 
 ## Prep Questions:
-- Reviewed current lore notes [ ]
-- Reviewed last sessions notes [ ]
-- Updated player obstacles sheet [ ]
-- NPC links updated [ ]
-- Prep sheet filled out [ ]
+- [] Reviewed current lore notes
+- [] Reviewed last sessions notes
+- [] Updated player obstacles sheet
+- [] NPC links updated
+- [] Prep sheet filled out
 Optional:
-- Updated locations and notes for Characters / Fronts / Events [ ]
-- New standalone scenes - screenplays written [ ]
+- [] Updated locations and notes for Characters / Fronts / Events
+- [] New standalone scenes - screenplays written
 
 ## On the fly NPCs:
 - Name: <input type="text" id="name" name="name"/>
